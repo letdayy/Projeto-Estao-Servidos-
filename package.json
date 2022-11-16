@@ -1,0 +1,22 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "jsonServer": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/letdayy/bookstore.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/letdayy/bookstore/issues"
+  },
+  "homepage": "https://github.com/letdayy/bookstore#readme",
+  "dependencies": {
+    "json-server": "0.17.0"
+  }
+}

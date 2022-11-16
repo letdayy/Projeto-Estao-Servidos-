@@ -1,9 +1,75 @@
 {
-    "HQs e Mangas": [
-        {
-            "id": 1,
-            "titulo": "CHAINSAW MAN - 08",
-            "imagem": "https://lojasaraivanew.vtexassets.com/arquivos/ids/162514-1200-auto?v=638004886126730000&width=1200&height=auto&aspect=true"
-        }
-    ]
+  "books": [
+    {
+      "id": 1,
+      "title": "CHAINSAW MAN - 08",
+      "image": "https://lojasaraivanew.vtexassets.com/arquivos/ids/162514-1200-auto?v=638004886126730000&width=1200&height=auto&aspect=true",
+      "price": 26.69,
+      "type": "mangás"
+    },
+    {
+      "id": 2,
+      "title": "MY HERO ACADEMIA - VOL. 26",
+      "image": "https://lojasaraivanew.vtexassets.com/arquivos/ids/166008-1200-auto?v=638006232035500000&width=1200&height=auto&aspect=true",
+      "price": 25.42,
+      "type": "mangás"
+    },
+    {
+      "id": 3,
+      "title": "TOKYO GHOUL VOL.6",
+      "image": "https://lojasaraivanew.vtexassets.com/arquivos/ids/162930-1200-auto?v=638006055184000000&width=1200&height=auto&aspect=true",
+      "price": 39.99,
+      "type": "mangás"
+    },
+    {
+      "id": "4",
+      "title": "50 tons de cinza",
+      "image": "placeholder",
+      "price": "15.50",
+      "type": "romance"
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "user": "dayane",
+      "email": "lcdayane49@gmail.com",
+      "age": 23,
+      "password": "12345678"
+    },
+    {
+      "id": "2",
+      "user": "Trevor",
+      "email": "trevor@gmail.com",
+      "age": "17",
+      "password": "12344194"
+    },
+    {
+      "id": "3",
+      "user": "ania",
+      "email": "aniar@gmail.com",
+      "age": "14",
+      "password": "198798797"
+    }
+  ],
+  "seller": [
+    {
+      "id": 1,
+      "name": "leticia books",
+      "email": "dayanelc49@gmail.com",
+      "adress": "rua são joão"
+    },
+    {
+      "id": "2",
+      "name": "Saraiva",
+      "email": "saraiva@gmail.com",
+      "address": "placeholder"
+    },
+    {
+      "id": "3",
+      "name": "Comic Books",
+      "email": "ComicB@gmail.com",
+      "address": "Av. placeholder da silva"
+    }
+  ]
 }
