@@ -23,10 +23,17 @@
     },
     {
       "id": "4",
-      "title": "50 tons de cinza",
-      "image": "placeholder",
-      "price": "15.50",
-      "type": "romance"
+      "title": "O homem mais rico da Babilônia",
+      "image": "https://lojasaraivanew.vtexassets.com/arquivos/ids/155610-800-auto?v=637999038740770000&width=800&height=auto&aspect=true",
+      "price": 18.90,
+      "type": "self help"
+    },
+    {
+      "id": "5",
+      "title": "Mindset A nova psicologia do sucesso",
+      "image": "https://lojasaraivanew.vtexassets.com/arquivos/ids/155605-800-auto?v=637999038703170000&width=800&height=auto&aspect=true",
+      "price": 46.90,
+      "type": "self help"
     }
   ],
   "user": [
